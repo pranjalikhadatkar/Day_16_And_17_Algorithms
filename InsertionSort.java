@@ -28,5 +28,4 @@ public class InsertionSort {
         Integer [] sortedArray = sort.insertionSort(array);
         sort.displaySort(sortedArray);
     }
-
 }

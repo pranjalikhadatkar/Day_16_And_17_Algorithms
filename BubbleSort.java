@@ -29,5 +29,4 @@ public class BubbleSort {
 	        Integer [] sortedArray = sort.bubbleSort(array);
 	        sort.displaySort(sortedArray);
 	    }
-
 }
